@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/home/sterling/Projects/MicMasterWorkspace/.metadata/.plugins/org.eclipse.jdt.core
+953799536.index
+1655588823.index
+2627485392.index
+1875778515.index
+1270315800.index
